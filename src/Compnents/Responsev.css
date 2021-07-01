@@ -1,0 +1,381 @@
+@media screen and (min-width: 0px) and (max-width: 576px){
+    .parentAll{
+        width: 60%;
+        height: auto;
+    }
+    .Question{
+        width: 100%;
+        height: 5rem;
+    }
+    .Question :nth-child(1){
+        font-size: 12px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .Question :nth-child(2){
+        font-size: 12px;
+        margin-top: .5rem;
+    }
+    .HangImage{
+        width: 100%;
+    }
+    .HangImage :nth-child(1){
+        width: 50px;
+        height: 80px;
+    }
+    .ShowNumberMistake{
+        width: 100%;
+        margin-top: 1rem;
+        font-size: 12px;
+    }
+    .KeyBords{
+        width: 100%;
+        height: 1rem;
+        margin-top: .25rem;
+    }
+    .KeyBords button{
+        width: 20px;
+        height: 20px;
+        margin: 1% .15rem;
+    }
+    .RefreshButton{
+        width: 100%;
+        height: 6rem;
+        margin-top: 3rem;
+    }
+    .RefreshButton button{
+        width: 30%;
+        height: 2rem;
+        margin-top: 2.5rem;
+        font-size: 11px;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 768px){
+    .parentAll{
+        width: 50%;
+        height: auto;
+    }
+    .Question{
+        width: 100%;
+        height: 5rem;
+    }
+    .Question :nth-child(1){
+        font-size: 14px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .Question :nth-child(2){
+        font-size: 12px;
+        margin-top: .5rem;
+    }
+    .HangImage{
+        width: 100%;
+    }
+    .HangImage :nth-child(1){
+        width: 80px;
+        height: 120px;
+    }
+    .ShowNumberMistake{
+        width: 100%;
+        margin-top: 1rem;
+        font-size: 12px;
+    }
+    .KeyBords{
+        width: 100%;
+        height: 1rem;
+        margin-top: .25rem;
+    }
+    .KeyBords button{
+        width: 20px;
+        height: 20px;
+        margin: 1% .15rem;
+    }
+    .RefreshButton{
+        width: 100%;
+        height: 6rem;
+        margin-top: 1.5rem;
+    }
+    .RefreshButton button{
+        width: 30%;
+        height: 2rem;
+        margin-top: 2.5rem;
+        font-size: 11px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 992px){
+    .parentAll{
+        width: 30%;
+        height: auto;
+    }
+    .Question{
+        width: 100%;
+        height: 5rem;
+    }
+    .Question :nth-child(1){
+        font-size: 14px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .Question :nth-child(2){
+        font-size: 13px;
+        margin-top: .5rem;
+    }
+    .HangImage{
+        width: 100%;
+    }
+    .HangImage :nth-child(1){
+        width: 90px;
+        height: 130px;
+    }
+    .ShowNumberMistake{
+        width: 100%;
+        margin-top: 1rem;
+        font-size: 14px;
+    }
+    .KeyBords{
+        width: 100%;
+        height: 1rem;
+        margin-top: .25rem;
+    }
+    .KeyBords button{
+        width: 20px;
+        height: 20px;
+        margin: 1% .15rem;
+    }
+    .RefreshButton{
+        width: 100%;
+        height: 6rem;
+        margin-top: 1.5rem;
+    }
+    .RefreshButton button{
+        width: 30%;
+        height: 2rem;
+        margin-top: 2.5rem;
+        font-size: 11px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .parentAll{
+        width: 30%;
+        height: auto;
+    }
+    .Question{
+        width: 100%;
+        height: 5rem;
+    }
+    .Question :nth-child(1){
+        font-size: 15px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .Question :nth-child(2){
+        font-size: 13px;
+        margin-top: .5rem;
+    }
+    .HangImage{
+        width: 100%;
+    }
+    .HangImage :nth-child(1){
+        width: 90px;
+        height: 130px;
+    }
+    .ShowNumberMistake{
+        width: 100%;
+        margin-top: 1rem;
+        font-size: 14px;
+    }
+    .KeyBords{
+        width: 100%;
+        height: 1rem;
+        margin-top: .25rem;
+    }
+    .KeyBords button{
+        width: 20px;
+        height: 20px;
+        margin: 1% .15rem;
+    }
+    .RefreshButton{
+        width: 100%;
+        height: 6rem;
+        margin-top: 1.5rem;
+    }
+    .RefreshButton button{
+        width: 30%;
+        height: 2rem;
+        margin-top: 2.5rem;
+        font-size: 11px;
+    }
+}
+@media screen and (min-width: 1200px) and (max-width: 1920px){
+    .parentAll{
+        width: 20%;
+        height: auto;
+    }
+    .Question{
+        width: 100%;
+        height: 5rem;
+    }
+    .Question :nth-child(1){
+        font-size: 14px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .Question :nth-child(2){
+        font-size: 13px;
+        margin-top: .5rem;
+    }
+    .HangImage{
+        width: 100%;
+    }
+    .HangImage :nth-child(1){
+        width: 100px;
+        height: 150px;
+    }
+    .ShowNumberMistake{
+        width: 100%;
+        margin-top: 1rem;
+        font-size: 14px;
+    }
+    .KeyBords{
+        width: 100%;
+        height: 1rem;
+        margin-top: .25rem;
+    }
+    .KeyBords button{
+        width: 20px;
+        height: 20px;
+        margin: 1% .15rem;
+    }
+    .RefreshButton{
+        width: 100%;
+        height: 6rem;
+        margin-top: 1.5rem;
+    }
+    .RefreshButton button{
+        width: 30%;
+        height: 2rem;
+        margin-top: 2.5rem;
+        font-size: 11px;
+    }
+}
+@media screen and (min-width: 1920px) {
+    .Question{
+        width: 100%;
+        height: 5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .Question :nth-child(1){
+        font-size: 15px;
+        color: #5f6d55;
+        font-weight: 700;
+    }
+
+    .Question :nth-child(2){
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: .5rem;
+        color: #5f6d55;
+    }
+
+    .HangImage{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .HangImage :nth-child(1){
+        width: 180px;
+        height: 260px;
+        margin-top: 1rem;
+        background-position: center center;
+        background-repeat: no-repeat;
+        position: relative;
+        opacity: .7;
+
+    }
+    .ShowNumberMistake{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+        font-size: 15px;
+        color: #5f6d55;
+        font-weight: 700;
+    }
+
+    .KeyBords{
+        width: 100%;
+        height: 5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-top: .25rem;
+    }
+
+    .KeyBords button{
+        width: 30px;
+        height: 30px;
+        border: none;
+        margin: 1% .15rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 41px;
+        cursor: pointer;
+        background: linear-gradient(145deg, #cacaca, #f0f0f0);
+        box-shadow:  5px 5px 17px #cecece,
+        -5px -5px 17px #f2f2f2;
+        color: #4c5845;
+    }
+
+    .KeyBords button:hover{
+        background: #5f6d55;
+        color: white;
+    }
+
+    .KeyBords button:disabled{
+        color: #de8e8e
+    }
+
+    .RefreshButton{
+        width: 100%;
+        height: 6rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 1rem;
+    }
+    .RefreshButton button{
+        width: 15%;
+        height: 2.1rem;
+        border-radius: 15px;
+        background-color: #5f6d55;
+        border: none;
+        color: whitesmoke;
+        transition: .5s;
+        cursor: pointer;
+        margin-top: 1rem;
+        background: linear-gradient(145deg, #cacaca, #f0f0f0);
+        box-shadow:  5px 5px 17px #cecece,
+        -5px -5px 17px #f2f2f2;
+        color: #4c5845;
+    }
+
+    .RefreshButton button:hover{
+        background: #5f6d55;
+        color: whitesmoke;
+    }
+
+    .WinLoseText{
+        font-size: 20px;
+        color: #5f6d55;
+        font-weight: 600;
+    }
+}
